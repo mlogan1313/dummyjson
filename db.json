@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "id": "867314",
+      "type": "api-model-cards",
+      "attributes": {
+        "published-at": "2017-12-05T10:52:06Z",
+        "icon": "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+        "author-name": "Evangeline Gislason",
+        "image": "https://pigment.github.io/fake-logos/logos/medium/color/5.png",
+        "summary": "swarthy cyclopean fungus",
+        "title": "effulgence cyclopean madness",
+        "content": "Sit vero aut nesciunt natus. Tempore quia alias sed atque. Repudiandae eius dolores. Iste corrupti sint. Exercitationem autem reiciendis voluptatum ducimus commodi et.",
+        "link": "https://advocate.test.com/ex-quis/id-optio/sc4#feed/588394?utm_source=api",
+        "content-url": "https://advocate.test.com/ex-quis/id-optio/sc4#feed/588394?utm_source=api",
+        "program-id": 979236,
+        "advocate-id": 1,
+        "author": null,
+        "updated-at": "2017-12-05T10:52:06Z",
+        "content-type": "video",
+        "content-channels": null
+      }
+    },
+    {
+      "id": "342432",
+      "type": "api-model-cards",
+      "attributes": {
+        "published-at": "2017-12-05T10:52:06Z",
+        "icon": "https://pigment.github.io/fake-logos/logos/medium/color/11.png",
+        "author-name": "Evangeline Gislason",
+        "image": "https://pigment.github.io/fake-logos/logos/medium/color/4.png",
+        "summary": "ululate foetid madness",
+        "title": "fainted shunned charnel",
+        "content": "Vero consequuntur accusamus sunt beatae voluptas. Non quo praesentium voluptatem eum eaque. Atque recusandae aliquam. Dolore beatae voluptatem. Ut error commodi et voluptatem tempore.",
+        "link": "https://advocate.test.com/ex-quis/id-optio/sc4#feed/664218?utm_source=api",
+        "content-url": "https://advocate.test.com/ex-quis/id-optio/sc4#feed/664218?utm_source=api",
+        "program-id": 362631,
+        "advocate-id": 1,
+        "author": null,
+        "updated-at": "2017-12-05T10:52:06Z",
+        "content-type": "video",
+        "content-channels": null
+      }
+    },
+    {
+      "id": "663149",
+      "type": "api-model-cards",
+      "attributes": {
+        "published-at": "2017-12-05T10:52:06Z",
+        "icon": "https://pigment.github.io/fake-logos/logos/medium/color/9.png",
+        "author-name": "Robb Hudson",
+        "image": "https://pigment.github.io/fake-logos/logos/medium/color/13.png",
+        "summary": "stygian non-euclidean amorphous",
+        "title": "nameless ululate dank",
+        "content": "Distinctio officiis et ea consequatur. Occaecati voluptates dicta est enim voluptatem odit necessitatibus. Sunt voluptatem non. Voluptates quaerat est.",
+        "link": "https://advocate.test.com/ex-quis/id-optio/sc4#feed/213211?utm_source=api",
+        "content-url": "https://advocate.test.com/ex-quis/id-optio/sc4#feed/213211?utm_source=api",
+        "program-id": 870896,
+        "advocate-id": 2,
+        "author": null,
+        "updated-at": "2017-12-05T10:52:06Z",
+        "content-type": "video",
+        "content-channels": null
+      }
+    }
+  ],
+  "links": {
+    "self": "http://example.org/v1/cards?api_token=SECRET&filter%5Bprogram_id%5D=1&page%5Bnumber%5D=2&page%5Bsize%5D=1",
+    "first": "http://example.org/v1/cards?api_token=SECRET&filter%5Bprogram_id%5D=1&page%5Bnumber%5D=1&page%5Bsize%5D=1",
+    "last": "http://example.org/v1/cards?api_token=SECRET&filter%5Bprogram_id%5D=1&page%5Bnumber%5D=3&page%5Bsize%5D=1",
+    "prev": "http://example.org/v1/cards?api_token=SECRET&filter%5Bprogram_id%5D=1&page%5Bnumber%5D=1&page%5Bsize%5D=1",
+    "next": "http://example.org/v1/cards?api_token=SECRET&filter%5Bprogram_id%5D=1&page%5Bnumber%5D=3&page%5Bsize%5D=1"
+  },
+  "meta": {
+    "current-page": 2,
+    "total-records": 3,
+    "total-pages": 3
+  }
+}
